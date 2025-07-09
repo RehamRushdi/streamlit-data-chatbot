@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+transformers
+kaleido
+# ollama-client (optional, only if using Ollama)
