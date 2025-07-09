@@ -67,11 +67,6 @@ project/
 ├── requirements.txt # Python dependencies
 ```
 
-## License
-MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 ### 🚀 First time using Streamlit? This project is a great place to start!
 
 ---
